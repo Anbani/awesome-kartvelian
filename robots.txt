@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kartvelian.eu/al-folio/sitemap.xml
+Sitemap: https://kartvelian.eu/sitemap.xml
